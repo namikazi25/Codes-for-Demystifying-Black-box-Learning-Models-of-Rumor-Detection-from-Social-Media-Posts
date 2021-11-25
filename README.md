@@ -1,2 +1,3 @@
 # Codes-for-Demystifying-Black-box-Learning-Models-of-Rumor-Detection-from-Social-Media-Posts
 Here are the codes we did for Demystifying Black box Learning Models of Rumor Detection from Social Media Posts
+There is two types of dataset used one in for general social media posts and another one is Covid-19 related Social Media Posts. We used five Machine Learning Models ( SVC, XGBoost, Random Forest, Extra Random Tree Classifier, Decision Tree Classifier) separately and also created a hybrid ensemble model consisting to all five models five times and two Deep Learning Models (LSTM and Bert) to predict rumor and non-rumor labels from that posts in the datasets.
